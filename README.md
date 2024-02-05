@@ -19,7 +19,7 @@ and stored procedures
 -Recorded historical data for each field with timestamps
 
 <h2>Instruction</h2>
-<br>
+<br><p>
 Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' After that, execute the SQL file by typing '@assignment2-create.sql.' This SQL file will create tables. 
 <br>
 ![1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/7fcdfe2a-0118-4849-8467-cf31b94a9620)
@@ -37,7 +37,7 @@ Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' A
 ![9](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/784a40ec-9695-403c-8332-2b7b3237c329)
 ![10](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/351fafb7-ea16-482e-909a-c9beb62b40ad)
 ![11](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/24de456c-e5df-444d-b92e-5bc760e4e327)
-<br>
+<br></p>
 <h2>FEATURES:</h2>
 <br>
 -You can access all of the tables, forms, and reports from the FRONT_PAGE form.
