@@ -17,10 +17,10 @@ and stored procedures
  - Maintained timestamp history for changes, using start and end dates to track modifications.
 <br>
  - Recorded historical data for each field with timestamps
--------------------------------------------------------------------------------------------------------
+
 Instruction
 Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' After that, execute the SQL file by typing '@assignment2-create.sql.' This SQL file will create tables.
-  ![1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/7fcdfe2a-0118-4849-8467-cf31b94a9620)
+![1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/7fcdfe2a-0118-4849-8467-cf31b94a9620)
 ![2](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/8ad68542-d049-49bb-bb78-83a3f5c7e6c0)
 <br>
 2 - Connect to ODBC and add 'Oracle_in_Instanceclient_21_12.' Write down the following information: Data Source Name: LOCALHOST:1521/ORCL2355, UserID: kang0057, User Password: kang0057Password, and test the connection.
