@@ -1,28 +1,22 @@
 # Database_Piano_Service
-1.First we created sql files using queries with procedures and triggers and table
-2.then open command prompt as administrator
-3. and run command sqlplus / as sysdba to connect to oracle as db administrator
-4. now locate the file and execute the created sql file to get all the tables and procedues and triggers
-5.connect database through ODBC using DSN to get data
-6.Open MS Access file and import the data
 
 Used program: Oracle, SSMS (SQL Server Management Studio), mySQL, ODBC, MS ACCESS.
 <br>
- Front-end Application: Developed with Microsoft Access for an intuitive user interface
+ - Front-end Application: Developed with Microsoft Access for an intuitive user interface
 <br>
- Set up reports and forms, merging various entities for effective data representation
+ - Set up reports and forms, merging various entities for effective data representation
 <br>
- Created complex relationships through forms to manage intricate connections between different 
+ - Created complex relationships through forms to manage intricate connections between different 
 entities
 <br>
- Utilized Oracle for data creation and linked it seamlessly with MS Access
+ - Utilized Oracle for data creation and linked it seamlessly with MS Access
 <br>
- Implemented database elements such as triggers, trigger views, packages, package bodies, 
+ - Implemented database elements such as triggers, trigger views, packages, package bodies, 
 and stored procedures
 <br>
- Maintained timestamp history for changes, using start and end dates to track modifications.
+ - Maintained timestamp history for changes, using start and end dates to track modifications.
 <br>
- Recorded historical data for each field with timestamps
+ - Recorded historical data for each field with timestamps
 -------------------------------------------------------------------------------------------------------
 Instruction
 1 - Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' After that, execute the SQL file by typing '@assignment2-create.sql.' This SQL file will create tables.
@@ -42,11 +36,14 @@ Instruction
 ![10](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/351fafb7-ea16-482e-909a-c9beb62b40ad)
 ![11](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/24de456c-e5df-444d-b92e-5bc760e4e327)
 <br>
-FEATURES: You can access all of the tables, forms and reports from FRONT_PAGE form. 
+-----------------------------------------------------------------------------------------------------------------------
+
+FEATURES:
+ - You can access all of the tables, forms and reports from FRONT_PAGE form. 
 
 ![Screenshot1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/d59101ef-6ee8-4821-b0f5-88388c2c6c3c)
-
-Any changes of data made on form will affect all the other related data on forms and reports
+<br>
+ - Any changes of data made on form will affect all the other related data on forms and reports
 
 ![Screenshot4](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/3d433bbf-52a0-4137-97cf-41e580e54c8d)
 
@@ -55,11 +52,8 @@ Any changes of data made on form will affect all the other related data on forms
 ![Screenshot8](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/15a8c297-d592-41cf-b656-af6a781f839c)
 
 ![Screenshot9](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/71a19e28-d81c-4da6-9d85-5bc528b71f34)
-
-we can keep track of the changes(History) made for specific data. 
-
-![screenshot5](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/1233cf63-5408-433d-8a03-bac81bb3b5ed
+<br>
+ - we can keep track of the changes(History) made for specific data. 
+![screenshot5](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/1233cf63-5408-433d-8a03-bac81bb3b5ed)
 ![screenshot6](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/1619ee21-be34-419e-8682-b134f0a8e264)
-)
-
 
