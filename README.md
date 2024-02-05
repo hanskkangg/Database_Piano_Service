@@ -2,21 +2,21 @@
 
 Used program: Oracle, SSMS (SQL Server Management Studio), mySQL, ODBC, MS ACCESS.
 <br>
- - Front-end Application: Developed with Microsoft Access for an intuitive user interface
+-Front-end Application: Developed with Microsoft Access for an intuitive user interface
 <br>
- - Set up reports and forms, merging various entities for effective data representation
+-Set up reports and forms, merging various entities for effective data representation
 <br>
- - Created complex relationships through forms to manage intricate connections between different 
+-Created complex relationships through forms to manage intricate connections between different 
 entities
 <br>
- - Utilized Oracle for data creation and linked it seamlessly with MS Access
+-Utilized Oracle for data creation and linked it seamlessly with MS Access
 <br>
- - Implemented database elements such as triggers, trigger views, packages, package bodies, 
+-Implemented database elements such as triggers, trigger views, packages, package bodies, 
 and stored procedures
 <br>
- - Maintained timestamp history for changes, using start and end dates to track modifications.
+-Maintained timestamp history for changes, using start and end dates to track modifications.
 <br>
- - Recorded historical data for each field with timestamps
+-Recorded historical data for each field with timestamps
 
 Instruction
 Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' After that, execute the SQL file by typing '@assignment2-create.sql.' This SQL file will create tables.
