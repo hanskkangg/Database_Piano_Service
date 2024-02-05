@@ -18,8 +18,8 @@ and stored procedures
 <br>
 -Recorded historical data for each field with timestamps
 
-<h2>Instruction</h2>
-<br><p>
+<h3>Instruction</h3>
+<br>
 Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' After that, execute the SQL file by typing '@assignment2-create.sql.' This SQL file will create tables. 
 <br>
 ![1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/7fcdfe2a-0118-4849-8467-cf31b94a9620)
