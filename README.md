@@ -37,9 +37,8 @@ Open CMD, navigate to the SQL file location, and then type 'sqlplus / as dba.' A
 ![10](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/351fafb7-ea16-482e-909a-c9beb62b40ad)
 ![11](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/24de456c-e5df-444d-b92e-5bc760e4e327)
 <br>
------------------------------------------------------------------------------------------------------------------------
-
 FEATURES:
+<br>
 -You can access all of the tables, forms, and reports from the FRONT_PAGE form.
 ![Screenshot1](https://github.com/hanskkangg/Database_Piano_Service/assets/156132740/d59101ef-6ee8-4821-b0f5-88388c2c6c3c)
 <br>
